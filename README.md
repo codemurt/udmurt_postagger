@@ -6,7 +6,7 @@ Python library for POS-tagging of Udmurt language sentences.
 
 ```bash
 git clone https://github.com/codemurt/udmurt-postagger.git
-cd udmurt_postagger
+cd udmurt-postagger
 pip install .
 ```
 
