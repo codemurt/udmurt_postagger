@@ -1,5 +1,13 @@
 # Udmurt POS-Tagger
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#)
+![Accuracy](https://img.shields.io/badge/Accuracy-91.83%25-brightgreen)
+![F1-Score](https://img.shields.io/badge/F1--Score-91.79%25-success)
+![Model Size](https://img.shields.io/badge/Model%20Size-11.68%20MB-lightgrey)
+![Dataset](https://img.shields.io/badge/Dataset-zerpal--pos--tagging-ff69b4)
+
 Python library for part-of-speech (POS) tagging of Udmurt language sentences using a bidirectional LSTM neural network model.
 
 ## Features
